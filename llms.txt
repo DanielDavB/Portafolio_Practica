@@ -1,0 +1,13 @@
+# Daniel Dávila — Portafolio
+
+> Portafolio de Daniel Dávila, desarrollo backend y datos con Python: APIs con FastAPI, pipelines de datos con pandas, Airflow y dbt, y automatizaciones listas para producción.
+
+## Páginas
+
+- [Portafolio](https://danieldavb.github.io/Portafolio_Practica/): Sobre mí, herramientas, proyectos seleccionados, experiencia y contacto.
+
+## Resumen
+
+- Especialidad: Python, FastAPI, Django, pandas, PostgreSQL, Docker, Airflow, dbt, pytest.
+- Proyectos: API de inventarios en tiempo real, pipeline de ventas y reportes, asistente de atención con IA, conciliación bancaria automática.
+- Idioma: español.
